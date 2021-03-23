@@ -1,0 +1,79 @@
+.title{
+ position: absolute;
+width: 221px;
+height: 1615px;
+left: 0px;
+top: 0px; 
+}
+
+.colors{
+position: absolute;
+width: 1526px;
+height: 333px;
+left: 197px;
+top: 39px;
+}
+
+.typography{
+  position: absolute;
+width: 1296px;
+height: 440px;
+left: 242px;
+top: 372px;
+}
+
+.spacing{
+position: absolute;
+width: 1464px;
+height: 422px;
+left: 259px;
+top: 841px;
+}
+
+.icons{
+position: absolute;
+width: 512px;
+height: 324px;
+left: 239px;
+top: 1263px;  
+}
+
+.buttons{
+position: absolute;
+width: 862px;
+height: 282px;
+left: 809px;
+top: 1305px;  
+}
+
+.jpg1{
+position: absolute;
+width: 407px;
+height: 342px;
+left: 52px;
+top: 1660px;  
+}
+
+.jpg2{
+position: absolute;
+width: 375px;
+height: 346px;
+left: 497px;
+top: 1660px;  
+}
+
+.jpg3{
+position: absolute;
+width: 407px;
+height: 342px;
+left: 915px;
+top: 1660px;  
+}
+
+.jpg4{
+position: absolute;
+width: 341px;
+height: 338px;
+left: 1360px;
+top: 1660px;  
+}
